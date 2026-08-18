@@ -24,4 +24,4 @@ Machine Learning • Data Analysis • Data Visualization • Git • GitHub
 
 ### 📫 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/sandesh-madannavar/) | (Email:sandeshmadannavar@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sandesh-madannavar/) | Email:sandeshmadannavar@gmail.com
