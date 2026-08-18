@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Sandesh (Sandy)
 
-<!--
-**sandesh-sm/sandesh-sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist | AI & Digital Business | Football Analytics
 
-Here are some ideas to get you started:
+I'm a Data Science, AI & Digital Business graduate based in Berlin (GER).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 MSc Data Science, AI & Digital Business
+- 📊 Interested in Machine Learning, AI & Data Analytics
+- ⚽ Aspiring Football / Sports Analyst
+- 💻 Building projects in Python, SQL & Machine Learning
+- 🚀 Currently building my data science portfolio
+
+### 🛠️ Skills & Tools
+
+Python • SQL • Pandas • NumPy • Scikit-learn • XGBoost  
+Machine Learning • Data Analysis • Data Visualization • Git • GitHub
+
+### 📌 Featured Projects
+
+- ⚽ Football Analytics Projects
+- 🤖 Machine Learning Projects
+- 📊 Data Science Projects
+- 📈 Marketing Analytics Projects
+
+### 📫 Connect with me
+
+[LinkedIn](www.linkedin.com/in/sandesh-madannavar) | [Email](sandeshmadannavar@gmail.com)
